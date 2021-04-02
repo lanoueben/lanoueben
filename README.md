@@ -13,7 +13,9 @@ on a horror game project Paradise Hell. The game is developed in Unity and
 programmed in C#.
 
 Contact Information:
+
 Email:  benjaminllanoue@gmail.com
+
 Phone:  815-370-8461
 
 
