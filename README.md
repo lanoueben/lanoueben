@@ -8,10 +8,6 @@ I've had a wide array of programming experiences. Some languages I've utilized
 are java, python, c++, c#, and C. Some Topics I've covered include object oriented
 programming, game development, big data management, and algorithms.
 
-Currently, I'm working with fellow developers Jacob Clarke and Luke Schultz
-on a horror game project Paradise Hell. The game is developed in Unity and 
-programmed in C#.
-
 Contact Information:
 
 Email:  benjaminllanoue@gmail.com
